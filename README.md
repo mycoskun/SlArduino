@@ -1,0 +1,2 @@
+# SlArduino
+Purpose of SlArduino repository is building up Matlab Simulink library for arduino sensors. Arduino and its sensors are relatively cheap and widely used equipments in DIY community. Simulink, which is developed by MathWorks and integrated with Matlab, is a graphical programming environment. Matlab and Simulink are vastly used by wolrdwide companies, so they are highly qualified products. The SlArduino repository aims to combine these two products.
